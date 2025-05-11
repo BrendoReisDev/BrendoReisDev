@@ -5,7 +5,7 @@ Sou apaixonado por tecnologia e criação, sempre buscando aprender, evoluir e t
 <br> </br>
 [![Instagram](https://img.shields.io/badge/-Instagram-%239350B9?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seu_usuario)
 [![YouTube](https://img.shields.io/badge/-YouTube-%239350B9?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@seu_usuario)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%239350B9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu_usuario)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%239350B9?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/brendoreis04)
 <br></br>
 ## 📊 Estatísticas
 <br></br>
