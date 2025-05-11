@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=40&pause=1000&color=9350B9&width=530&height=80&lines=Ol%C3%A1+eu+sou+o+Brendo+Reis!)](https://git.io/typing-svg)
 
-*Desenvolvedor Full Stack em Formação*
+**`Desenvolvedor FullStack em formação`**
 <br>
 </br>
 *Me chamo Brendo Belarmino Reis, tenho 16 anos, estou no 2º ano do Ensino Médio e curso Desenvolvimento de Sistemas no SENAI.
