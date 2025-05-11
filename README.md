@@ -7,14 +7,6 @@ Sou apaixonado por tecnologia e criação, sempre buscando aprender, evoluir e t
 [![YouTube](https://img.shields.io/badge/-YouTube-%239350B9?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@seu_usuario)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%239350B9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu_usuario)
 <br></br>
-
-## 🤖 Linguagens e tecnologia
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="25" height="25"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="25" height="25"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="25" height="25"/>
-<br></br>
-
 ## 📊 Estatísticas
 <br></br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BrendoReisDev&theme=shadow-purple&hide_border=falso&locale=pt_BR&short_numbers=falso&card_width=900&card_height=210)](https://git.io/streak-stats)
