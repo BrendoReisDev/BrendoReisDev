@@ -7,4 +7,4 @@ Me chamo Brendo Belarmino Reis, tenho 16 anos, estou no 2º ano do Ensino Médio
 ## 📬 Contato
 - **Email**: brendo.studios.hub@email.com
 - **GitHub**: [BrendoReisDev](https://github.com/BrendoReisDev)
-- **LinkedIn**: [Brendo Reis](www.linkedin.com/in/brendoreisin/)
+- **LinkedIn**: [Brendo Reis](www.linkedin.com/in/brendoreis)
