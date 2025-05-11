@@ -3,10 +3,14 @@
 **`Desenvolvedor FullStack em formação`**
 <br>
 </br>
-*Me chamo Brendo Belarmino Reis, tenho 16 anos, estou no 2º ano do Ensino Médio e curso Desenvolvimento de Sistemas no SENAI.
+*Eu meu nome é Brendo Belarmino Reis, tenho 16 anos, estou no 2º ano do Ensino Médio e curso Desenvolvimento de Sistemas no SENAI.
 Sou apaixonado por tecnologia e criação, sempre buscando aprender, evoluir e transformar ideias em realidade.*
-<br>
-</br>
+<br> </br>
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seu_usuario)
+[![YouTube](https://img.shields.io/badge/-YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@seu_usuario)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/brendoreis)
+
+---
 **📊 Estatísticas**
 <br>
 </br>
