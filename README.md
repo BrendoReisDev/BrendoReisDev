@@ -4,4 +4,3 @@
 Sou apaixonado por tecnologia e criação, sempre buscando aprender, evoluir e transformar ideias em realidade.*
 <br> </br>
 ## 📊 Estatísticas
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BrendoReisDev&theme=shadow-purple&hide_border=falso&locale=pt_BR&short_numbers=falso&card_width=900&card_height=200)](https://git.io/streak-stats)
