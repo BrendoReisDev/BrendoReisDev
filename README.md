@@ -4,19 +4,10 @@
 Sou apaixonado por tecnologia e criação, sempre buscando aprender, evoluir e transformar ideias em realidade.*
 <br> </br>
 ## 📊 Estatísticas
-<p>
+<p style="background-color: #000; padding: 20px; border-radius: 15px; display: inline-block;">
   <img 
-    align="left" 
     alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=BrendoReisDev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&border_color=9a4eff&title_color=9a4eff&text_color=9a4eff&icon_color=9a4eff" 
-  />
-
-  <img 
-    align="left" 
-    alt="Top Langs" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrendoReisDev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&border_color=9a4eff&title_color=9a4eff&text_color=9a4eff&icon_color=9a4eff" 
+    height="250" 
+    src="https://github-readme-stats.vercel.app/api?username=BrendoReisDev&show_icons=true&theme=transparent&include_all_commits=true&locale=pt-br&border_color=a259ff&title_color=a259ff&text_color=a259ff&icon_color=a259ff" 
   />
 </p>
