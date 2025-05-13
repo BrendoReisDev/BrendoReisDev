@@ -8,6 +8,6 @@ Sou apaixonado por tecnologia e criação, sempre buscando aprender, evoluir e t
   <img 
     alt="GitHub Stats" 
     height="250" 
-    src="https://github-readme-stats.vercel.app/api?username=BrendoReisDev&show_icons=true&theme=transparent&include_all_commits=true&locale=pt-br&border_color=a259ff&title_color=a259ff&text_color=a259ff&icon_color=a259ff" 
+    src="https://github-readme-stats.vercel.app/api?username=BrendoReisDev&show_icons=true&theme=transparent&include_all_commits=true&locale=pt-br&border_color=8435cc&title_color=8435cc&text_color=8435cc&icon_color=8435cc" 
   />
 </p>
