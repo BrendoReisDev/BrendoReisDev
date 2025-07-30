@@ -1,3 +1,4 @@
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=40&pause=1000&color=9350B9&vCenter=true&width=530&height=40&lines=Ol%C3%A1+eu+sou+o+Brendo+Reis!)](https://git.io/typing-svg)
 
 ## Sobre mim
@@ -5,6 +6,8 @@
 - 🤔 Meu nome é Brendo Reis e tenho 16 anos!
 - 🎓 Estudo Técnico em Desenvolvimento de Sistemas no Senai.
 - 💻 Estou aprendendo mais sobre Java.
+
+<br/>
 
 ## Minhas Skills
 
@@ -19,7 +22,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
 </p>
-</br>
+
 ## GitHub Stats
 <p> 
 </p>
