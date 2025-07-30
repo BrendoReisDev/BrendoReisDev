@@ -18,7 +18,7 @@ Sou apaixonado por tecnologia e criação, sempre buscando aprender, evoluir e t
 
 - 🤔 Meu nome e Brendo Reis tenho 16 anos!
 - 🎓 Estudando Tecnico Desenvolvimento de Sistemas no Senai.
-- 🌱 Aprendendo mais sobre Java.
+-  Aprendendo mais sobre Java.
 
 ## Minhas Skills
 
@@ -35,6 +35,6 @@ Sou apaixonado por tecnologia e criação, sempre buscando aprender, evoluir e t
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/imbrendoo)](www.linkedin.com/in/imbrendoo)
+[![Gmail Badge](https://img.shields.io/badge/-brendo.studios.hub@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brendo.studios.hub@gmail.com)](mailto::brendo.studios.hub@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/BrendoReisDev)
