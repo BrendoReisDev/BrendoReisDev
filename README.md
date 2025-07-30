@@ -35,6 +35,6 @@ Sou apaixonado por tecnologia e criação, sempre buscando aprender, evoluir e t
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/imbrendoo)](www.linkedin.com/in/imbrendoo)
-[![Gmail Badge](https://img.shields.io/badge/-brendo.studios.hub@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brendo.studios.hub@gmail.com)](mailto::brendo.studios.hub@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-BrendoReisDev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/imbrendoo)](www.linkedin.com/in/imbrendoo)
+[![Gmail Badge](https://img.shields.io/badge/-brendo.studios.hub@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Email)](mailto::Email)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/BrendoReisDev)
