@@ -30,7 +30,7 @@ Sou apaixonado por tecnologia e criação, sempre buscando aprender, evoluir e t
 <br/>
 
 <a href="https://github.com/BrendoReisDev" title="Perfil do Brendo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dark&show_icons=true" />
 </a>
 
 ## Onde me encontrar
