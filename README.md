@@ -11,3 +11,4 @@ Sou apaixonado por tecnologia e criação, sempre buscando aprender, evoluir e t
     src="https://github-readme-stats.vercel.app/api?username=BrendoReisDev&show_icons=true&theme=transparent&include_all_commits=true&locale=pt-br&border_color=8435cc&title_color=8435cc&text_color=8435cc&icon_color=8435cc" 
   />
 </p>
+<br></br>
