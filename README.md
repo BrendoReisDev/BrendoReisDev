@@ -1,7 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=40&pause=1000&color=9350B9&vCenter=true&width=530&height=40&lines=Ol%C3%A1+eu+sou+o+Brendo+Reis!)](https://git.io/typing-svg)
-## Desenvolvedor em formação
-<br></br>
-
 ## Sobre mim
 
 - 🤔 Meu nome e Brendo Reis tenho 16 anos!
