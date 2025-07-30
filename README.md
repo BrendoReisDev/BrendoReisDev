@@ -8,8 +8,7 @@ Sou apaixonado por tecnologia e criação, sempre buscando aprender, evoluir e t
   <img 
     alt="GitHub Stats" 
     height="250" 
-    src="https://github-readme-stats.vercel.app/api?username=BrendoReisDev&show_icons=true&theme=transparent&include_all_commits=true&locale=pt-br&border_color=8435cc&title_color=8435cc&text_color=8435cc&icon_color=8435cc" 
-  />
+    src="https://github-readme-stats.vercel.app/api?username=BrendoReisDev&show_icons=true&theme=transparent&include_all_commits=true&locale=pt-br&border_color=8435cc&title_color=8435cc&text_color=8435cc&icon_color=8435cc" />
 </p>
 <br></br>
 
@@ -30,8 +29,13 @@ Sou apaixonado por tecnologia e criação, sempre buscando aprender, evoluir e t
 <br/>
 
 <a href="https://github.com/BrendoReisDev" title="Perfil do Brendo">
-  <img height="180em" src="[https://github-readme-stats.vercel.app/api?username=iuricode&theme=dark&show_icons=true](https://github-readme-stats.vercel.app/api?username=BrendoReisDev&show_icons=true&theme=transparent&include_all_commits=true&locale=pt-br&border_color=8435cc&title_color=8435cc&text_color=8435cc&icon_color=8435cc)" />
 </a>
+
+  <img 
+    alt="GitHub Stats" 
+    height="250" 
+    src="https://github-readme-stats.vercel.app/api?username=BrendoReisDev&show_icons=true&theme=transparent&include_all_commits=true&locale=pt-br&border_color=8435cc&title_color=8435cc&text_color=8435cc&icon_color=8435cc" />
+</p>
 
 ## Onde me encontrar
 
