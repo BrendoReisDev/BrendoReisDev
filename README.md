@@ -6,8 +6,6 @@
 - 🎓 Estudo Técnico em Desenvolvimento de Sistemas no Senai.
 - 💻 Estou aprendendo mais sobre Java.
 
-<br/>
-
 ## Minhas Skills
 
 <p align="left">
@@ -21,7 +19,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
 </p>
-
+</br>
 ## GitHub Stats
 <p> 
 </p>
