@@ -4,8 +4,8 @@
 ## Sobre mim
 
 - 🤔 Meu nome é Brendo Reis e tenho 16 anos!
-- 🎓 Estudo Técnico em Desenvolvimento de Sistemas no Senai.
-- 💻 Estou aprendendo mais sobre Java.
+- 🎓 Estudo Técnico em Desenvolvimento de Sistemas no Senai
+- 💻 Estou focado em Java
 
 <br/>
 
