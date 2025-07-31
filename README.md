@@ -23,14 +23,8 @@
   </a>
 </p>
 
-## GitHub Stats
-<p> 
-</p>
-<p align="center">
-  <img alt="GitHub Stats" height="250" src="https://github-readme-stats.vercel.app/api?username=BrendoReisDev&show_icons=true&theme=transparent&include_all_commits=true&locale=pt-br&border_color=8435cc&title_color=8435cc&text_color=8435cc&icon_color=8435cc" />
-</p>
-
-## Onde me encontrar
+## 📊 Estatísticas
+![brendoreisdev's Stats](https://github-readme-stats.vercel.app/api?username=brendoreisdev&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
 
 <h3 align="center">Me siga nas redes sociais!</h3>
 
