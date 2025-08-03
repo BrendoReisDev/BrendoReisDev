@@ -35,4 +35,5 @@
   <a href="https://instagram.com/imbrendo_" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
+  [![brendoreisdev](https://github-readme-stats.vercel.app/api/top-langs/?username=brendoreisdev&layout=compact)](https://github.com/brendoreisdev/github-readme-stats)
 </p>
