@@ -25,7 +25,7 @@
 
 ## 📊 Estatísticas
 ![brendoreisdev's Stats](https://github-readme-stats.vercel.app/api?username=brendoreisdev&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
- [![brendoreisdev 's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=brendoreisdev&layout=compact)](https://github.com/brendoreisdev/github-readme-stats)
+ [![brendoreisdev 's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=brendoreisdev&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)](https://github.com/brendoreisdev/github-readme-stats)
 
 <h3 align="center">Me siga nas redes sociais!</h3>
 
