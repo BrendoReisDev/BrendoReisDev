@@ -13,6 +13,7 @@
 
 
 ![Java](https://skillicons.dev/icons?i=java&theme=light)
+![HTML&CSS&JS%Tailwind](https://skillicons.dev/icons?i=html,css,js&theme=light)
 
 ## 📊 Estatísticas
 ![brendoreisdev's Stats](https://github-readme-stats.vercel.app/api?username=brendoreisdev&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
