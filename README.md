@@ -23,5 +23,4 @@
 
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://linkedin.com/in/imbrendoo)
-
 [![Instagram](https://skillicons.dev/icons?i=instagram&theme=light)](https://linkedin.com/in/imbrendoo)
