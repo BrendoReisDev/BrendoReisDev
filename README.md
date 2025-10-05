@@ -7,13 +7,50 @@
 - 🎓 Estudo Técnico em Desenvolvimento de Sistemas no Senai
 - 💻 Estou focado em Java
 
-<br/>
+<br>
 
+## Minhas Skills Backend
+
+![Java](https://skillicons.dev/icons?i=java\&theme=light)
+![Spring](https://skillicons.dev/icons?i=spring\&theme=light)
+![PHP](https://skillicons.dev/icons?i=php\&theme=light)
+
+## Minhas Skills Frontend
+
+![HTML](https://skillicons.dev/icons?i=html\&theme=light)
+![CSS](https://skillicons.dev/icons?i=css\&theme=light)
+![JS](https://skillicons.dev/icons?i=js\&theme=light)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap\&theme=light)
+
+## Minhas Skills Banco de Dados
+
+![MySQL](https://skillicons.dev/icons?i=mysql\&theme=light)
+![SQL](https://skillicons.dev/icons?i=sql\&theme=light)
+
+## Minhas Skills Desenvolvimento de Jogos
+
+![Godot](https://skillicons.dev/icons?i=godot\&theme=light)
+![Unity](https://skillicons.dev/icons?i=unity\&theme=light)
+<!--![C#](https://skillicons.dev/icons?i=cs\&theme=light)-->
+
+<!--## Minhas Skills Desenvolvimento Mobile
+
+![Kotlin](https://skillicons.dev/icons?i=kotlin\&theme=light)
+![Flutter](https://skillicons.dev/icons?i=flutter\&theme=light)
+-->
 ## Minhas Skills
+![Flutter](https://skillicons.dev/icons?i=idea\&theme=light)
+![Flutter](https://skillicons.dev/icons?i=vscode\&theme=light)
+![Flutter](https://skillicons.dev/icons?i=postman\&theme=light)
+![Flutter](https://skillicons.dev/icons?i=github\&theme=light)
+![Flutter](https://skillicons.dev/icons?i=git\&theme=light)
 
 
-![Java](https://skillicons.dev/icons?i=java&theme=light)
-![HTML&CSS&JS%Tailwind](https://skillicons.dev/icons?i=spring,html,css,js,php&theme=light)
+<br>
+
+
+
+
 
 ## 📊 Estatísticas
 ![brendoreisdev's Stats](https://github-readme-stats.vercel.app/api?username=brendoreisdev&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
