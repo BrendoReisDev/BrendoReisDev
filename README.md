@@ -9,41 +9,36 @@
 
 <br>
 
-## Minhas Skills Backend
+# Skills – Full-Stack Java
+
+## Backend
 
 ![Java](https://skillicons.dev/icons?i=java\&theme=light)
 ![Spring](https://skillicons.dev/icons?i=spring\&theme=light)
-![PHP](https://skillicons.dev/icons?i=php\&theme=light)
 
-## Minhas Skills Frontend
+## Frontend
 
 ![HTML](https://skillicons.dev/icons?i=html\&theme=light)
 ![CSS](https://skillicons.dev/icons?i=css\&theme=light)
-![JS](https://skillicons.dev/icons?i=js\&theme=light)
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap\&theme=light)
+![JavaScript](https://skillicons.dev/icons?i=js\&theme=light)
+![JavaScript](https://skillicons.dev/icons?i=bootstrap\&theme=light)
 
-## Minhas Skills Banco de Dados
+## Banco de Dados
 
 ![MySQL](https://skillicons.dev/icons?i=mysql\&theme=light)
-![SQL](https://skillicons.dev/icons?i=sql\&theme=light)
 
-## Minhas Skills Desenvolvimento de Jogos
+## Ferramentas & IDEs
 
-![Godot](https://skillicons.dev/icons?i=godot\&theme=light)
+![IntelliJ IDEA](https://skillicons.dev/icons?i=idea\&theme=light)
+![VS Code](https://skillicons.dev/icons?i=vscode\&theme=light)
+![Postman](https://skillicons.dev/icons?i=postman\&theme=light)
+![GitHub](https://skillicons.dev/icons?i=github\&theme=light)
+![Git](https://skillicons.dev/icons?i=git\&theme=light)
+
+## Outras Linguagens | Desenvolvimento de Jogos | Desenvolvimento Mobile
 ![Unity](https://skillicons.dev/icons?i=unity\&theme=light)
-<!--![C#](https://skillicons.dev/icons?i=cs\&theme=light)-->
-
-<!--## Minhas Skills Desenvolvimento Mobile
-
-![Kotlin](https://skillicons.dev/icons?i=kotlin\&theme=light)
-![Flutter](https://skillicons.dev/icons?i=flutter\&theme=light)
--->
-## Minhas Skills
-![Flutter](https://skillicons.dev/icons?i=idea\&theme=light)
-![Flutter](https://skillicons.dev/icons?i=vscode\&theme=light)
-![Flutter](https://skillicons.dev/icons?i=postman\&theme=light)
-![Flutter](https://skillicons.dev/icons?i=github\&theme=light)
-![Flutter](https://skillicons.dev/icons?i=git\&theme=light)
+![C#](https://skillicons.dev/icons?i=cs&theme=light)
+![PHP](https://skillicons.dev/icons?i=php\&theme=light)
 
 
 <br>
