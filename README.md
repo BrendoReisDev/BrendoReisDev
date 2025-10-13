@@ -15,6 +15,7 @@
 
 ![Java](https://skillicons.dev/icons?i=java\&theme=light)
 ![Spring](https://skillicons.dev/icons?i=spring\&theme=light)
+![PHP](https://skillicons.dev/icons?i=php\&theme=light)
 
 ## Frontend
 
@@ -35,10 +36,7 @@
 ![GitHub](https://skillicons.dev/icons?i=github\&theme=light)
 ![Git](https://skillicons.dev/icons?i=git\&theme=light)
 
-## Outras Linguagens | Desenvolvimento de Jogos | Desenvolvimento Mobile
-![Unity](https://skillicons.dev/icons?i=unity\&theme=light)
-![C#](https://skillicons.dev/icons?i=cs&theme=light)
-![PHP](https://skillicons.dev/icons?i=php\&theme=light)
+
 
 
 <br>
