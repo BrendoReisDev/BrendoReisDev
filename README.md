@@ -9,7 +9,7 @@
 
 <br>
 
-# Skills – Full-Stack Java
+# Skills 
 
 ## Backend
 
